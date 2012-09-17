@@ -2,6 +2,6 @@ package com.bobik.flowershop;
 
 class Cornflower extends Flower {
 /**
- * testing 1234
+ * testing 12345
  */
 }
